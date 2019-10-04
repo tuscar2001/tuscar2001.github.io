@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Welcome to my blog!"
+title:  "Bias Variance Trade Off!"
 date:   2019-10-04 8:40:15 
 ---
-
+There is a concept in machine learning called Bias Variance trade off that I am going to explain below.
 
 ```python
 import numpy as np
