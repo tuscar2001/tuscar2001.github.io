@@ -6,7 +6,7 @@ email: tuscar2001@gmail.com
 github: https://github.com/tuscar2001
 about: I am a Data Scientist
 disqus_shortname: programming
-#google_analytics: UA-31048387-6
+google_analytics: G-5Z53XVBRPL
 avatar_url: /static/img/me.jpg
 
 enableTags: true
@@ -19,18 +19,18 @@ collections:
 
 social:
     - icon: fa-facebook
-      link: "https://www.facebook.com/tjamadar"
+      link: "https://www.facebook.com/adimiproperties/?modal=admin_todo_tour"
     - icon: fa-twitter
-      link: "https://twitter.com/tmjam3011"
+      link: "https://twitter.com/oscar_adimi"
     - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/tauseef-jamadar-5b577913/"
+      link: "https://www.linkedin.com/in/oscar-adimi-33178616/"
     # - icon: fa-stack-exchange
     #   link: "#"
     - icon: fa-github
       link: "https://github.com/tuscar2001"
 
 share:
-  twitter_username: tmjam3011
+  twitter_username: oscar_adimi
   # fb_appid: 1749788565247320
 
 urls:
